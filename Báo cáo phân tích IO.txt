@@ -1,0 +1,10 @@
+Báo cáo phân tích I/O
+Input — Văn bản thô
+Tài liệu đầu vào gồm các yêu cầu về cảm biến độ ẩm, câu lệnh Terminal, chương trình Python điều khiển máy bơm, bảng so sánh cảm biến và danh sách kiểm tra thiết bị.
+Output — Giao diện render chuyên nghiệp
+File Markdown này được thiết kế để khi hiển thị trên trình đọc Markdown sẽ phân biệt rõ:
+- Văn bản giải thích.
+- Tên biến và câu lệnh ngắn bằng Inline Code.
+- Lệnh Terminal và mã Python bằng Code Block có Syntax Highlighting.
+- Thông tin thiết bị bằng Table.
+- Công việc cần kiểm tra bằng Task List.
